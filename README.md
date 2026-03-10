@@ -1,8 +1,14 @@
 La réplique la plus parfaite du jeu original « Chrome Dino ». Parcourrez un monde rempli de cactus et de ptérodactyles, avec une vitesse progressive et une difficulté redoutable.
 
+Le script du jeu est disponible à l'URL suivant : https://my.numworks.com/python/diegokhelladi/chrome_dino
+
+----------
+
 Ce script est une version minimaliser.
 
 Changelog : Version 1.00
+
+----------
 
 Propriété intellectuelle :
 
