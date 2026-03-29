@@ -2,6 +2,10 @@ La réplique la plus parfaite du jeu original « Chrome Dino ». Parcourrez un m
 
 ![image](https://github.com/user-attachments/assets/1141755a-1d9e-4f4a-86ad-b1922b5777aa)
 
+Aperçu du jeu :
+
+![chrome-dino-for-numworks-screenshot-diego-k](https://github.com/user-attachments/assets/45f7925a-f716-48f7-bd50-de7efc8ad5ae)
+
 
 Le script du jeu est disponible à l'URL suivant : https://my.numworks.com/python/diegokhelladi/chrome_dino
 
