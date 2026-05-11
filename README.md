@@ -9,6 +9,9 @@ Aperçu du jeu :
 
 Le script du jeu est disponible à l'URL suivant : https://my.numworks.com/python/diegokhelladi/chrome_dino
 
+Ou visitez le site du jeu :
+https://diegokhelladi-gif.github.io/chrome-dino-for-numworks-de-diego.k
+
 ----------
 
 Ce script est une version minimaliser.
